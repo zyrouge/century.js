@@ -1,0 +1,25 @@
+{
+  "name": "century.js",
+  "version": "1.0.0",
+  "description": "A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyrouge/century.js.git"
+  },
+  "keywords": [
+    "century",
+    "date",
+    "time",
+    "moment"
+  ],
+  "author": "ZYROUGE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyrouge/century.js/issues"
+  },
+  "homepage": "https://github.com/zyrouge/century.js#readme"
+}
